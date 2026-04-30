@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'MarbleRenew | Premium Marble Restoration & Cleaning Services',
+  title: '7 Star Cleaning & Marble Renewal Services | Premium Marble Restoration',
   description: 'Expert marble renewal, polishing, restoration and sealing services. Transform your marble surfaces to their original brilliance with our professional craftsmen.',
   generator: 'v0.app',
   icons: {
