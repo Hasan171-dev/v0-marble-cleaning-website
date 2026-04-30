@@ -22,8 +22,8 @@ export function Header() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
-            <span className="text-2xl font-semibold tracking-tight text-foreground">
-              Marble<span className="text-accent">Renew</span>
+            <span className="text-xl sm:text-2xl font-semibold tracking-tight text-foreground">
+              <span className="text-accent">7 Star</span> Cleaning & Marble Renewal
             </span>
           </Link>
 

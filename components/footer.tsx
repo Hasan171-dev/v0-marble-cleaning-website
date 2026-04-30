@@ -22,8 +22,8 @@ export function Footer() {
         <div className="grid md:grid-cols-4 gap-12">
           {/* Brand */}
           <div className="md:col-span-2">
-            <Link href="/" className="text-2xl font-semibold tracking-tight">
-              Marble<span className="text-accent">Renew</span>
+            <Link href="/" className="text-xl sm:text-2xl font-semibold tracking-tight">
+              <span className="text-accent">7 Star</span> Cleaning & Marble Renewal
             </Link>
             <p className="mt-4 text-primary-foreground/80 leading-relaxed max-w-md">
               Premium marble renewal and cleaning services. Restoring the elegance of natural stone surfaces for over 25 years.
@@ -68,7 +68,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-primary-foreground/20 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-primary-foreground/60">
-            © {new Date().getFullYear()} MarbleRenew. All rights reserved.
+            © {new Date().getFullYear()} 7 Star Cleaning & Marble Renewal Services. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             <Link href="#" className="text-sm text-primary-foreground/60 hover:text-primary-foreground transition-colors">
